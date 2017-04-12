@@ -4,7 +4,7 @@ Angular-hAdmin是一个免费的后台管理模版,该模版基于bootstrap与An
 
 # Demo
 ![名称](./doc/1.jpg)
-> [Angular-hAdmin演示地址](#)
+> [Angular-hAdmin演示地址](https://wslys.github.io/Angular-hAdmin/#/dashboard)
 
 ## Install tools
 
